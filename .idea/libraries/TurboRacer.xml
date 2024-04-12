@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TurboRacer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TurboRacer-Game-main/TurboRacer/build/TurboRacer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

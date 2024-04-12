@@ -6,5 +6,3 @@ We received a challenge to develop our own game from scratch, with only 10 night
 ## Project
 We used Java as our programming language and implemented the "Simple Graphics" library for this project.
 
-
-![game image](game.png)
